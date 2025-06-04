@@ -9,7 +9,7 @@ panel_title: Frigate
 slug: frigate-hailo
 description: NVR with realtime local object detection for IP cameras
 url: "https://github.com/blakeblackshear/frigate"
-image: ghcr.io/blakeblackshear/frigate
+image: ghcr.io/blakeblackshear/frigate:678ae87
 startup: application
 boot: auto
 init: false
